@@ -1,0 +1,4 @@
+Date:2020/4/27
+Name:林李玟
+Student number:410714370
+Student class:初級程式設計-Scratch與Python
